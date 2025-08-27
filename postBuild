@@ -1,6 +1,0 @@
-#!/bin/bash
-# 
-
-
-# Création d'un dossier pour les données générées
-mkdir -p ${HOME}/generated_data
