@@ -1,0 +1,12 @@
+name: analyse-textuelle
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - pip:
+    - textblob
